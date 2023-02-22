@@ -197,7 +197,7 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?checkedby:iptvcat.com
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDNN23 NIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/CDNN_23_Nicaragua.png" group-title="News",CDNN23 NIC
 http://138.117.4.70:8075/channel23/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT.us" tvg-name="A&E US (Viu)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Cable Channels",A&E US (Viu)
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E US (Viu)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Cable Channels",A&E US (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/3.m3u8
 #EXTINF:-1 tvg-id="WABCDT.us" tvg-name="ABC NY (WABCDT) (720p)" tvg-logo="https://cdn.abcotv.com/googleassistant/logos/WABC.png" group-title="Cable Channels",ABC NY (WABCDT) (720p)
 https://v-ny.mybtv.net/live/554.m3u8
@@ -373,11 +373,11 @@ https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/212.m3u8
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4562.m3u8
 #EXTINF:-1 tvg-id="Universal" tvg-name="Universal (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="US Channels",Universal (480p)
 http://191.97.15.116:8000/play/a006/index.m3u
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univisión Miami HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión Miami HD (Viu)
+#EXTINF:-1 tvg-id="UNI.(WLTV).Miami,.FL.us" tvg-name="Univisión Miami HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión Miami HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/213.m3u8
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univisión New York HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión New York HD (Viu)
+#EXTINF:-1 tvg-id="UNI.(WFTY-DT2).New.York,.NY.us" tvg-name="Univisión New York HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión New York HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4563.m3u8
-#EXTINF:-1 tvg-id="Unimas" tvg-name="UniMás Miami HD (Viu)" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="US Channels",UniMás Miami HD (Viu)
+#EXTINF:-1 tvg-id="UniMás.(WAMI).Miami,.FL.us" tvg-name="UniMás Miami HD (Viu)" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="US Channels",UniMás Miami HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4032.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV Peru HD (720p)" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV Peru HD (720p)
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
