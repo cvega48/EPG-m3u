@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sports (Viu)" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="Sport",Bein Sports (Viu)
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="Bein Sports (Viu)" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="Sport",Bein Sports (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/10.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Español (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" group-title="Sport",Bein Sports Español (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/17.m3u8
@@ -31,7 +31,7 @@ https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/3876.m3u8
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/3877.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 8 HD (24Hz)(Viu)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_8_2022_WHITE_RGB.png" group-title="Sport",BT Sport 8 HD (24Hz)(Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/3878.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network(Viu)" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/cbs-sports-logo.png" group-title="Sport",CBS Sports Network(Viu)
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="CBS Sports Network(Viu)" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/cbs-sports-logo.png" group-title="Sport",CBS Sports Network(Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga HD (Viu)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png" group-title="Sport",DAZN LaLiga HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/3772.m3u8
@@ -119,7 +119,7 @@ http://190.181.41.234:8000/play/a0bt/index.m3u8
 http://181.236.192.254:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Arg Vivo" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/si21ru1624296330.png" group-title="Sport",TVP Arg Vivo
 http://38.41.8.1:7000/play/a07j
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYC Sports HD (Viu)" tvg-logo="https://globalsquads.com/custom/images/resize/400x200-_72027_tyc.png" group-title="Sport",TYC Sports HD (Viu)
+#EXTINF:-1 tvg-id="TYC.Sports.(TYCSPORTS).us" tvg-name="TYC Sports HD (Viu)" tvg-logo="https://globalsquads.com/custom/images/resize/400x200-_72027_tyc.png" group-title="Sport",TYC Sports HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4460.m3u8
 #EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="TUDN Deportes HD (Viu)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest/scale-to-width-down/1000?cb=20190827032433&path-prefix=es" group-title="Sport",TUDN Deportes HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/84.m3u8
@@ -171,7 +171,7 @@ https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/31.m3u8
 http://168.194.171.33:8000/play/a00j/index.m3u8?fbclid=IwAR1j9WF8Ju88lpg6Krg8eHrJYjaOGdXTl0uiNiX5EFXAJfYAHiauXWqzpnk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN en Español (New)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20409g.png" group-title="News",CNN en Español (New)
 http://190.60.39.62:8000/play/a014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN en Español (Viu)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20409g.png" group-title="News",CNN en Español (Viu)
+#EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(USA).(CNNE).us" tvg-name="CNN en Español (Viu)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20409g.png" group-title="News",CNN en Español (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/2.m3u8
 #EXTINF:-1 tvg-id="WFOR-TV" tvg-name="CNBC (Viu)" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/CNBC-Logo.png" group-title="News",CNBC (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/122.m3u8
@@ -373,11 +373,11 @@ https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/212.m3u8
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4562.m3u8
 #EXTINF:-1 tvg-id="Universal" tvg-name="Universal (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="US Channels",Universal (480p)
 http://191.97.15.116:8000/play/a006/index.m3u
-#EXTINF:-1 tvg-id="UNI.(WLTV).Miami,.FL.us" tvg-name="Univisión Miami HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión Miami HD (Viu)
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="Univisión Miami HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión Miami HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/213.m3u8
-#EXTINF:-1 tvg-id="UNI.(WFTY-DT2).New.York,.NY.us" tvg-name="Univisión New York HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión New York HD (Viu)
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="Univisión New York HD (Viu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="US Channels",Univisión New York HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4563.m3u8
-#EXTINF:-1 tvg-id="UniMás.(WAMI).Miami,.FL.us" tvg-name="UniMás Miami HD (Viu)" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="US Channels",UniMás Miami HD (Viu)
+#EXTINF:-1 tvg-id="UniMás.HDTV.(Pacific).(UNIMASHD).us" tvg-name="UniMás Miami HD (Viu)" tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="US Channels",UniMás Miami HD (Viu)
 https://us1-live.viucdn.com/live/viu-13973/H44ALsG0V5/4032.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV Peru HD (720p)" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV Peru HD (720p)
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
